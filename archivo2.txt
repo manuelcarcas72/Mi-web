@@ -1,1 +1,2 @@
 Esto es una página secundaria y he realizado un cambio
+Agrego aquí una segunda línea de código
